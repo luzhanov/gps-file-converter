@@ -1,0 +1,15 @@
+# OS or Editor folders
+.idea
+.DS_Store
+Thumbs.db
+*.iml
+.idea/
+*.log
+dependency-reduced-pom.xml
+
+#grunt folder
+target-grunt/
+
+# log_undefined
+log.home_IS_UNDEFINED/
+target

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+    <Document>
+        <name>San Francisco</name>
+        <Style id="yellow">
+            <IconStyle>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>00ffffff</color>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>$[description]</text>
+            </BalloonStyle>
+        </Style>
+        <Placemark>
+            <name>A Bridge</name>
+            <description>This is the Golden Gate Bridge</description>
+            <styleUrl>#yellow</styleUrl>
+            <Point>
+                <coordinates>-122.4784418363343,37.81888070994548,0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

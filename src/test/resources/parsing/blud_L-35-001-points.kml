@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+	<Style id="yellow">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="white">
+		<IconStyle>
+			<Icon>
+				<href>http://www.karpaty.com.ua/gps/img/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="gray">
+		<IconStyle>
+			<color>ffe0e0e0</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="orange">
+		<IconStyle>
+			<color>ff4080ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="green">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="blue">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Українські Карпати - Блуд</name>
+		<Folder>
+			<name>L-35-001</name>
+			<Placemark>
+				<name> Вихід на рівне/спуск</name>
+				<description>http://www.karpaty.com.ua/gps/data/73.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.343183,47.990063,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Межа лісу. Полонина</name>
+				<description>http://www.karpaty.com.ua/gps/data/74.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.340407,47.979017,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Межа лісу. Полонина</name>
+				<description>http://www.karpaty.com.ua/gps/data/75.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.341515,47.976403,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Межа лісу. Полонина</name>
+				<description>http://www.karpaty.com.ua/gps/data/76.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.341263,47.974943,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cкельний вихід</name>
+				<description>http://www.karpaty.com.ua/gps/data/77.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.339335,47.969012,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> г. Петрос (М)</name>
+				<description>http://www.karpaty.com.ua/gps/data/78.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.338073,47.962392,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Відносно рівне місце, вкрите жерепом</name>
+				<description>http://www.karpaty.com.ua/gps/data/79.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.339136,47.967389,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cідло</name>
+				<description>http://www.karpaty.com.ua/gps/data/80.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.332457,47.956995,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cерпантин (низ)</name>
+				<description>http://www.karpaty.com.ua/gps/data/81.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.290419,47.936885,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Колиба, пол. Лисича</name>
+				<description>http://www.karpaty.com.ua/gps/data/82.html</description>
+				<styleUrl>#green</styleUrl>
+				<Point>
+					<coordinates>24.317171,47.939536,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Будинок КБЗ, пол. Лисича</name>
+				<description>http://www.karpaty.com.ua/gps/data/83.html</description>
+				<styleUrl>#green</styleUrl>
+				<Point>
+					<coordinates>24.321506,47.942005,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Закоси на ПІМ - оглядова дорога</name>
+				<description>http://www.karpaty.com.ua/gps/data/84.html</description>
+				<styleUrl>#orange</styleUrl>
+				<Point>
+					<coordinates>24.31672,47.933999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Межа лісу/пол. Лисича. Cерпантин (верх)</name>
+				<description>http://www.karpaty.com.ua/gps/data/85.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.308761,47.938781,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Зруйнований міст, потік Білий. Дорога на г. Піп Іван (М)/серпантин</name>
+				<description>http://www.karpaty.com.ua/gps/data/86.html</description>
+				<styleUrl>#orange</styleUrl>
+				<Point>
+					<coordinates>24.28228,47.93572,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Шлагбаум</name>
+				<description>http://www.karpaty.com.ua/gps/data/87.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.256024,47.930683,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Роздоріжжя: г. Піп Іван (М) - г. Полонинка</name>
+				<description>http://www.karpaty.com.ua/gps/data/88.html</description>
+				<styleUrl>#orange</styleUrl>
+				<Point>
+					<coordinates>24.222701,47.927198,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> с. Ділове, місце зупинки громадського транспорту. Крамниця</name>
+				<description>http://www.karpaty.com.ua/gps/data/89.html</description>
+				<styleUrl>#gray</styleUrl>
+				<Point>
+					<coordinates>24.177319,47.938026,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Мармуровий кар'єр, с. Ділове</name>
+				<description>http://www.karpaty.com.ua/gps/data/101.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.209722,47.928412,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Місток</name>
+				<description>http://www.karpaty.com.ua/gps/data/277.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.35524,47.94913,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Будинок (двері та вікна відсутні), стеля руйнується</name>
+				<description>http://www.karpaty.com.ua/gps/data/278.html</description>
+				<styleUrl>#green</styleUrl>
+				<Point>
+					<coordinates>24.35741,47.98527,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Шлагбаум</name>
+				<description>http://www.karpaty.com.ua/gps/data/279.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.36136,47.95949,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Поворот на підйом до полонини Квасна</name>
+				<description>http://www.karpaty.com.ua/gps/data/280.html</description>
+				<styleUrl>#orange</styleUrl>
+				<Point>
+					<coordinates>24.35519,47.94322,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Брід</name>
+				<description>http://www.karpaty.com.ua/gps/data/281.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.34467,47.94737,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Роздоріжжя. На пол. Квасна - на захід</name>
+				<description>http://www.karpaty.com.ua/gps/data/282.html</description>
+				<styleUrl>#orange</styleUrl>
+				<Point>
+					<coordinates>24.34123,47.94868,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cтрумок</name>
+				<description>http://www.karpaty.com.ua/gps/data/283.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.34154,47.95206,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cтрумок</name>
+				<description>http://www.karpaty.com.ua/gps/data/284.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.33392,47.95238,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Межа лісу, пол. Квасна</name>
+				<description>http://www.karpaty.com.ua/gps/data/285.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.32953,47.95083,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Локальна вершина</name>
+				<description>http://www.karpaty.com.ua/gps/data/286.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.32375,47.93424,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> г. Берлебашка</name>
+				<description>http://www.karpaty.com.ua/gps/data/287.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.3157,47.9535,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> г. Жовта</name>
+				<description>http://www.karpaty.com.ua/gps/data/578.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.188712,47.919455,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Роздоріжжя: S - кордон, N - мармуровий кар'єр (потік Білий), W - г. Жовта</name>
+				<description>http://www.karpaty.com.ua/gps/data/579.html</description>
+				<styleUrl>#orange</styleUrl>
+				<Point>
+					<coordinates>24.198564,47.917425,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cідло</name>
+				<description>http://www.karpaty.com.ua/gps/data/580.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.200015,47.916272,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cкеля</name>
+				<description>http://www.karpaty.com.ua/gps/data/581.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.223495,47.900424,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cтрумок</name>
+				<description>http://www.karpaty.com.ua/gps/data/582.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.223558,47.89991,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cтрумок</name>
+				<description>http://www.karpaty.com.ua/gps/data/583.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.25305,47.906152,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Роздоріжжя: W, E - кордон (у бік г. Піп Іван), N - пол. Гальчинка, пікет №1</name>
+				<description>http://www.karpaty.com.ua/gps/data/584.html</description>
+				<styleUrl>#orange</styleUrl>
+				<Point>
+					<coordinates>24.263631,47.908436,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cтрумок</name>
+				<description>http://www.karpaty.com.ua/gps/data/585.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.298973,47.917643,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cтрумок</name>
+				<description>http://www.karpaty.com.ua/gps/data/586.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.303876,47.92192,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Джерело</name>
+				<description>http://www.karpaty.com.ua/gps/data/587.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.324336,47.93613,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cтрумок</name>
+				<description>http://www.karpaty.com.ua/gps/data/588.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.324652,47.933358,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Кінець дороги. Початок стежки на ребрі Піп Іван (М.)</name>
+				<description>http://www.karpaty.com.ua/gps/data/589.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.326671,47.930176,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cкельний вихід на ребрі г. Піп Іван (М.)</name>
+				<description>http://www.karpaty.com.ua/gps/data/590.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.325923,47.92904,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cкельний вихід на ребрі г. Піп Іван (М.)</name>
+				<description>http://www.karpaty.com.ua/gps/data/591.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.325742,47.928328,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cкельний вихід на ребрі г. Піп Іван (М.)</name>
+				<description>http://www.karpaty.com.ua/gps/data/592.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.325688,47.927875,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Прик. ст №364. Роздоріжжя: SW - г. Шербан, N - пол. Лисича, SE - гол. вершина г. Піп Іван (М)</name>
+				<description>http://www.karpaty.com.ua/gps/data/593.html</description>
+				<styleUrl>#orange</styleUrl>
+				<Point>
+					<coordinates>24.325003,47.926202,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Головна вершина Піп Іван (М). Тріанг</name>
+				<description>http://www.karpaty.com.ua/gps/data/594.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.327942,47.923792,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Прик. ст №363</name>
+				<description>http://www.karpaty.com.ua/gps/data/595.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.320163,47.923399,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Укриття від вітру. (Велика яма)</name>
+				<description>http://www.karpaty.com.ua/gps/data/596.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.312475,47.920494,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Прик. ст №361. Місце для відпочинку</name>
+				<description>http://www.karpaty.com.ua/gps/data/597.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.307058,47.917582,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Прик. ст №360</name>
+				<description>http://www.karpaty.com.ua/gps/data/598.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.303858,47.917045,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Прик. ст №359/1</name>
+				<description>http://www.karpaty.com.ua/gps/data/599.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.299369,47.912713,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>г. Шербан, прик. ст №359</name>
+				<description>http://www.karpaty.com.ua/gps/data/600.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.297873,47.911294,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Прик. ст №358.</name>
+				<description>http://www.karpaty.com.ua/gps/data/601.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.292122,47.91075,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Прик. ст №357</name>
+				<description>http://www.karpaty.com.ua/gps/data/602.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.286417,47.908889,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Прик. ст №356. Вихід КCC до дороги</name>
+				<description>http://www.karpaty.com.ua/gps/data/603.html</description>
+				<styleUrl>#orange</styleUrl>
+				<Point>
+					<coordinates>24.282046,47.907397,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> г. Полонинка. Прик. ст №354</name>
+				<description>http://www.karpaty.com.ua/gps/data/604.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.275006,47.906424,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cідло. Прик. ст №353</name>
+				<description>http://www.karpaty.com.ua/gps/data/605.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.267363,47.906992,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Роздоріжжя: NW - пот. Білий, E - пікет №1 прик. застави с. Ділове, SW - кордон</name>
+				<description>http://www.karpaty.com.ua/gps/data/607.html</description>
+				<styleUrl>#orange</styleUrl>
+				<Point>
+					<coordinates>24.265218,47.908895,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cтрумок</name>
+				<description>http://www.karpaty.com.ua/gps/data/608.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.252211,47.913674,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Початок стежки до потоку Білого</name>
+				<description>http://www.karpaty.com.ua/gps/data/609.html</description>
+				<styleUrl>#orange</styleUrl>
+				<Point>
+					<coordinates>24.230174,47.923677,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> г. Міка Маре, вершина</name>
+				<description>http://www.karpaty.com.ua/gps/data/670.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.47251,47.96315,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Вода, стоянка під г. Піп Іван (М)</name>
+				<description>http://www.karpaty.com.ua/gps/data/673.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.35033,47.91741,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Початок стежки на г. Піп Іван (М)</name>
+				<description>http://www.karpaty.com.ua/gps/data/674.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.34685,47.91528,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Поворот до підніжжя г. Піп Іван (М) NO</name>
+				<description>http://www.karpaty.com.ua/gps/data/675.html</description>
+				<styleUrl>#orange</styleUrl>
+				<Point>
+					<coordinates>24.34369,47.91523,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Вихід стежки на хребет</name>
+				<description>http://www.karpaty.com.ua/gps/data/676.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.3447,47.91476,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> г. Cтеавул, вершина</name>
+				<description>http://www.karpaty.com.ua/gps/data/677.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.4945,47.95546,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Джерело</name>
+				<description>http://www.karpaty.com.ua/gps/data/766.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.380649,47.938805,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Джерело, прик. ст.№373</name>
+				<description>http://www.karpaty.com.ua/gps/data/767.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.378234,47.926329,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Руїни старого пікету</name>
+				<description>http://www.karpaty.com.ua/gps/data/768.html</description>
+				<styleUrl>#green</styleUrl>
+				<Point>
+					<coordinates>24.380871,47.93828,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Джерело</name>
+				<description>http://www.karpaty.com.ua/gps/data/769.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.371326,47.943205,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Кляуза (гать) п. Квасний, залишки</name>
+				<description>http://www.karpaty.com.ua/gps/data/770.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.361158,47.955322,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Джерело</name>
+				<description>http://www.karpaty.com.ua/gps/data/771.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.327865,47.954637,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Джерело</name>
+				<description>http://www.karpaty.com.ua/gps/data/772.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.350325,47.915704,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Потічок</name>
+				<description>http://www.karpaty.com.ua/gps/data/773.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>24.331015,47.951637,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Бетонний стовп КБЗ, межа заповідника</name>
+				<description>http://www.karpaty.com.ua/gps/data/774.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.315966,47.950996,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Металева мітка ГУГК</name>
+				<description>http://www.karpaty.com.ua/gps/data/775.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.327395,47.930648,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cкельний виступ</name>
+				<description>http://www.karpaty.com.ua/gps/data/776.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.322474,47.938237,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cкельний виступ</name>
+				<description>http://www.karpaty.com.ua/gps/data/777.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>24.323476,47.936641,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Джерело мінеральне</name>
+				<description>http://www.karpaty.com.ua/gps/data/779.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.355333,47.949441,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Прик. ст №395</name>
+				<description>http://www.karpaty.com.ua/gps/data/1546.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.467088,47.962204,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Бетонний стовпчик КБЗ при дорозі</name>
+				<description>http://www.karpaty.com.ua/gps/data/1547.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>24.273864,47.909149,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Поворот кордону, місце для фотографування</name>
+				<description>http://www.karpaty.com.ua/gps/data/1553.html</description>
+				<styleUrl>#orange</styleUrl>
+				<Point>
+					<coordinates>24.391294,47.953181,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

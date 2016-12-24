@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0"
+     creator="Test"
+     version="1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+    <trk>
+        <name>Patrick's Track</name>
+        <trkseg>
+            <trkpt lon="9.860624216140083" lat="54.9328621088893"></trkpt>
+            <trkpt lon="9.86092208681491" lat="54.93293237320851"></trkpt>
+            <trkpt lon="9.86187816543752" lat="54.93327743521187"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Alex's Track</name>
+        <trkseg>
+            <trkpt lon="9.860624216140083" lat="54.9328621088893"></trkpt>
+            <trkpt lon="9.86092208681491" lat="54.93293237320851"></trkpt>
+            <trkpt lon="9.86187816543752" lat="54.93327743521187"></trkpt>
+            <trkpt lon="9.862439849679859" lat="54.93342326167919"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Ann's Track</name>
+        <trkseg>
+            <trkpt lon="9.860624216140083" lat="54.9328621088893"></trkpt>
+            <trkpt lon="9.86092208681491" lat="54.93293237320851"></trkpt>
+            <trkpt lon="9.86187816543752" lat="54.93327743521187"></trkpt>
+            <trkpt lon="9.862439849679859" lat="54.93342326167919"></trkpt>
+            <trkpt lon="9.863239849679859" lat="54.93352326167919"></trkpt>
+        </trkseg>
+    </trk>
+</gpx>

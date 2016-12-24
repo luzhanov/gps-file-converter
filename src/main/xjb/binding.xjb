@@ -1,0 +1,29 @@
+<jxb:bindings version="1.0"
+              xmlns:jxb="http://java.sun.com/xml/ns/jaxb"
+>
+
+    <jxb:bindings schemaLocation="../xsd/kml22/ogckml22.xsd">
+
+        <jxb:bindings node="//xsd:element[@name='scale']">
+            <jxb:class name="SimpleScale" />
+        </jxb:bindings>
+        <jxb:bindings node="//xsd:element[@name='snippet']">
+            <jxb:class name="SimpleSnippet" />
+        </jxb:bindings>
+    </jxb:bindings>
+    <jxb:bindings schemaLocation="../xsd/kml21/kml21.xsd">
+        <jxb:schemaBindings>
+            <jxb:package name="com.google.earth.kml._21"/>
+        </jxb:schemaBindings>
+
+        <jxb:bindings node="//xsd:element[@name='coordinates']">
+            <jxb:class name="KML21Coordinates" />
+        </jxb:bindings>
+        <jxb:bindings node="//xsd:element[@name='Scale']">
+            <jxb:class name="KML21Scale" />
+        </jxb:bindings>
+        <jxb:bindings node="//xsd:element[@name='styleUrl']">
+            <jxb:class name="KML21StyleUrl" />
+        </jxb:bindings>
+    </jxb:bindings>
+</jxb:bindings>

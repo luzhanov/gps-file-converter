@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="RouteConverter">
+    <metadata>
+        <name>Test file by Patrick</name>
+    </metadata>
+    <rte>
+        <name>Alex's Route</name>
+        <rtept lon="9.860624216140083" lat="54.9328621088893"></rtept>
+        <rtept lon="9.86092208681491" lat="54.93293237320851"></rtept>
+        <rtept lon="9.86187816543752" lat="54.93327743521187"></rtept>
+        <rtept lon="9.862439849679859" lat="54.93342326167919"></rtept>
+        <rtept lon="9.863439849679859" lat="54.93372326167919"></rtept>
+    </rte>
+    <rte>
+        <name>Igor's Route</name>
+        <rtept lon="9.860624216140083" lat="54.9328621088893"> </rtept>
+        <rtept lon="9.86092208681491" lat="54.93293237320851"></rtept>
+        <rtept lon="9.86187816543752" lat="54.93327743521187"></rtept>
+        <rtept lon="9.862439849679859" lat="54.93342326167919"></rtept>
+    </rte>
+    <rte>
+        <name>Jane's Route</name>
+        <rtept lon="9.860624216140083" lat="54.9328621088893"></rtept>
+        <rtept lon="9.86092208681491" lat="54.93293237320851"></rtept>
+        <rtept lon="9.86187816543752" lat="54.93327743521187"></rtept>
+    </rte>
+    <trk>
+        <name>Ann's Track</name>
+        <trkseg>
+            <trkpt lon="9.860624216140083" lat="54.9328621088893"></trkpt>
+            <trkpt lon="9.86092208681491" lat="54.93293237320851"></trkpt>
+            <trkpt lon="9.86187816543752" lat="54.93327743521187"></trkpt>
+            <trkpt lon="9.862439849679859" lat="54.93342326167919"></trkpt>
+            <trkpt lon="9.863239849679859" lat="54.93352326167919"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Alex's Track</name>
+        <trkseg>
+            <trkpt lon="9.860624216140083" lat="54.9328621088893"></trkpt>
+            <trkpt lon="9.86092208681491" lat="54.93293237320851"></trkpt>
+            <trkpt lon="9.86187816543752" lat="54.93327743521187"></trkpt>
+            <trkpt lon="9.862439849679859" lat="54.93342326167919"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lon="19.860624216140083" lat="54.9328621088893"></trkpt>
+            <trkpt lon="19.86092208681491" lat="54.93293237320851"></trkpt>
+            <trkpt lon="19.86187816543752" lat="54.93327743521187"></trkpt>
+            <trkpt lon="19.862439849679859" lat="54.93342326167919"></trkpt>
+        </trkseg>
+    </trk>
+</gpx>

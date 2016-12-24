@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx
+ xmlns="http://www.topografix.com/GPX/1/1"
+ creator="OziExplorer Version 3955k - http://www.oziexplorer.com"
+ version="1.1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+ <time>2013-04-06T12:29:28Z</time>
+ <bounds minlat="48.693628" minlon="23.761595" maxlat="48.753386" maxlon="23.862543"/>
+</metadata>
+<wpt lat="48.7530290" lon="23.7792790">
+ <time>2012-01-18T17:15:22.576Z</time>
+ <name>PRAV-KORDON</name>
+ <sym>Crossing</sym>
+</wpt>
+<wpt lat="48.7178720" lon="23.8466010">
+ <time>2012-01-18T17:16:20.136Z</time>
+ <name>RAZV-MSHANA</name>
+ <sym>Crossing</sym>
+</wpt>
+<wpt lat="48.7107000" lon="23.8340260">
+ <time>2012-01-18T17:16:42.021Z</time>
+ <name>PODY-YAYK</name>
+ <sym>Crossing</sym>
+</wpt>
+<wpt lat="48.7244460" lon="23.8072080">
+ <time>2012-01-18T17:17:01.366Z</time>
+ <name>M-1409</name>
+ <sym>Summit</sym>
+</wpt>
+<wpt lat="48.6932700" lon="23.7598260">
+ <time>2012-01-18T17:17:28.038Z</time>
+ <name>RW-BESKID</name>
+ <sym>Airport</sym>
+</wpt>
+<wpt lat="48.7040780" lon="23.8417380">
+ <time>2012-01-18T17:17:47.124Z</time>
+ <name>M-YAYKO-IL</name>
+ <cmt>1679</cmt>
+ <desc>1679</desc>
+ <sym>Summit</sym>
+</wpt>
+<wpt lat="48.6946040" lon="23.8379170">
+ <time>2012-01-18T17:17:59.384Z</time>
+ <name>M-POGANEC</name>
+ <cmt>1667</cmt>
+ <desc>1667</desc>
+ <sym>Summit</sym>
+</wpt>
+<wpt lat="48.6949260" lon="23.8607740">
+ <time>2012-01-18T17:24:00.415Z</time>
+ <name>M-1382</name>
+ <sym>Summit</sym>
+</wpt>
+<wpt lat="48.7419620" lon="23.8111860">
+ <ele>0.000000</ele>
+ <time>2011-07-13T17:58:04.043Z</time>
+ <name>B-GURT-ZABR</name>
+ <cmt>http://www.karpaty.com.ua/gps/data/1318.html</cmt>
+ <desc>http://www.karpaty.com.ua/gps/data/1318.html</desc>
+ <sym>Building</sym>
+</wpt>
+<wpt lat="48.7165220" lon="23.8444820">
+ <ele>0.000000</ele>
+ <time>2011-07-13T17:58:04.051Z</time>
+ <name>CMP-MSHANA</name>
+ <cmt>http://www.karpaty.com.ua/gps/data/1320.html</cmt>
+ <desc>http://www.karpaty.com.ua/gps/data/1320.html</desc>
+ <sym>Campground</sym>
+</wpt>
+<wpt lat="48.7130660" lon="23.8293570">
+ <ele>0.000000</ele>
+ <time>2011-07-13T17:58:04.060Z</time>
+ <name>CMP-DOV-POLE</name>
+ <cmt>http://www.karpaty.com.ua/gps/data/1363.html</cmt>
+ <desc>http://www.karpaty.com.ua/gps/data/1363.html</desc>
+ <sym>Campground</sym>
+</wpt>
+<wpt lat="48.7007600" lon="23.8422500">
+ <ele>1553.565552</ele>
+ <time>2013-04-06T15:29:28.712Z</time>
+ <name>TROP-YAYK</name>
+ <cmt>27-SEP-09 11:17:50</cmt>
+ <desc>27-SEP-09 11:17:50</desc>
+ <sym>Airport</sym>
+</wpt>
+<wpt lat="48.6984700" lon="23.8541000">
+ <ele>1466.088013</ele>
+ <time>2013-04-06T15:29:28.712Z</time>
+ <name>B-KOLIB-YAY</name>
+ <cmt>27-SEP-09 9:01:56</cmt>
+ <desc>27-SEP-09 9:01:56</desc>
+ <sym>Building</sym>
+</wpt>
+<wpt lat="48.7052800" lon="23.8410200">
+ <ele>1663.903198</ele>
+ <time>2013-04-06T15:29:28.712Z</time>
+ <name>SHRON</name>
+ <cmt>27-SEP-09 12:22:56</cmt>
+ <desc>27-SEP-09 12:22:56</desc>
+ <sym>Airport</sym>
+</wpt>
+</gpx>

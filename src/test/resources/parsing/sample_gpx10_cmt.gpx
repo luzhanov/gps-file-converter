@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0"
+     creator="Test"
+     version="1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+    <name>Example gpx</name>
+    <wpt lat="46.57638889" lon="8.89263889">
+        <ele>2372</ele>
+        <name>NAME1</name>
+        <cmt>CMT1</cmt>
+        <desc>DESC1</desc>
+    </wpt>
+    <wpt lat="46.56" lon="9.89263889">
+        <ele>2373</ele>
+        <cmt>CMT2</cmt>
+        <desc>DESC2</desc>
+        <time>2007-10-14T10:09:57Z</time>
+    </wpt>
+    <wpt lat="26.56" lon="9.89263889">
+        <ele>2373</ele>
+        <desc>DESC3</desc>
+        <time>2007-10-14T10:09:57Z</time>
+    </wpt>
+    <wpt lat="23.56" lon="9.89263889">
+        <ele>2373</ele>
+        <name>NAME4</name>
+        <cmt>CMT4</cmt>
+        <time>2007-10-14T10:09:57Z</time>
+    </wpt>
+    <wpt lat="46.57618889" lon="8.89213889">
+        <ele>2372</ele>
+        <name>NAME5</name>
+        <cmt>CMT5</cmt>
+        <desc>CMT5</desc>
+    </wpt>
+
+</gpx>

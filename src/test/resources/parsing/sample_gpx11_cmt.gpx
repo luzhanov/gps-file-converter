@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx
+        xmlns="http://www.topografix.com/GPX/1/1"
+        creator="OziExplorer Version 3955k - http://www.oziexplorer.com"
+        version="1.1"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <time>2013-04-06T12:29:28Z</time>
+  <bounds minlat="48.693628" minlon="23.761595" maxlat="48.753386" maxlon="23.862543"/>
+ </metadata>
+ <wpt lat="48.6984700" lon="23.8541000">
+  <ele>1466.088013</ele>
+  <time>2013-04-06T15:29:28.712Z</time>
+  <name>NAME1</name>
+  <cmt>CMT1</cmt>
+  <desc>DESC1</desc>
+  <sym>Building</sym>
+ </wpt>
+ <wpt lat="48.7052800" lon="23.8410200">
+  <ele>1663.903198</ele>
+  <time>2013-04-06T15:29:28.712Z</time>
+  <cmt>CMT2</cmt>
+  <desc>DESC2</desc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="45.7052800" lon="22.8410200">
+  <ele>1663.903198</ele>
+  <time>2013-04-06T15:29:28.712Z</time>
+  <desc>DESC3</desc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="18.6984700" lon="23.8541000">
+  <ele>1466.088013</ele>
+  <time>2013-04-06T15:29:28.712Z</time>
+  <name>NAME4</name>
+  <cmt>CMT4</cmt>
+  <sym>Building</sym>
+ </wpt>
+ <wpt lat="48.6484700" lon="24.8541000">
+  <ele>1466.088013</ele>
+  <time>2013-04-06T15:29:28.712Z</time>
+  <name>NAME5</name>
+  <cmt>CMT5</cmt>
+  <desc>CMT5</desc>
+  <sym>Building</sym>
+ </wpt>
+</gpx>
